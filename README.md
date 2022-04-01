@@ -1,6 +1,6 @@
 # [mtfy](https://github.com/mtfy) ― zero degress, 100% self-educated by passion
 
-Sup 👋🏼 What brought your attention here, stalking at my [GitHub profile](https://github.com/mtfy)? Iʼm a self-taught teenaged male from 🇫🇮, whoʼs insterested in Web Development, SEO optimization, Software Engineering, Networking, Cryptography, System Administration and Information Security. Programming is my hobby for now, hopefully a job sooner or later 🤷🏻. Always ready to learn something new. Once I start something, I cannot quit it before it being completely done!
+Sup 👋🏼 What brought your attention here, stalking at my [GitHub profile](https://github.com/mtfy)? Iʼm a self-taught teenaged male from 🇫🇮, whoʼs insterested in Web Development, SEO optimization, Software Engineering, Networking, Cryptography, System Administration and Information Security. Programming is my hobby for now, hopefully a job sooner or later 🤷🏻. Always ready to learn something new. Once I start something, I cannot quit it before it being finished 110%.
 
 ## 💭 Any inquiries / questions? Here's how to:
 + ![Discord](https://i.ibb.co/7j29n15/Discord.png) __Discord__ ― [Motify#0033](https://discord.com/users/850826026959372308/profile)
